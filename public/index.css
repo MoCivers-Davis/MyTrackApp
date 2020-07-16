@@ -1,0 +1,64 @@
+body{
+    background-color: blue;
+
+
+}
+.logo{
+    width: 70px;
+    color: yellow;
+}
+.run{
+    width: 70px;
+}
+
+.display-4{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: .6in;
+    color: yellow;
+    vertical-align: 10px;
+    font-weight: 600;
+    
+
+}
+
+.jumbotron{
+  background-color: rgb(12, 46, 141);
+}
+
+
+/* Add a black background color to the top navigation */
+.backround{
+  background-color: rgb(0, 0, 0);
+}
+
+.navbar-dark{
+  text-align: center;
+  padding: 14px 45px;
+  text-decoration: none;
+  font-size: 22px;
+}
+
+.carousel-inner{
+  
+  max-height: 500px;
+  border-width: thick;
+  border-color: black;
+}
+.card-1{
+  margin-left: 4.25in;
+  max-width: 800px;
+  background: black;
+}
+.carousel-caption{
+  
+  background: white;
+  font-size: 7px;
+  color: black;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+  footer{
+    color: white;
+    text-align: center;
+  }

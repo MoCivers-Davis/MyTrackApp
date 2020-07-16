@@ -1,0 +1,35 @@
+.title{
+    color: white;
+    margin-left: 20px;
+}
+.card-title{
+    font-size: 30px;
+}
+.willi{
+    height: 350px;
+    width: 700px;
+    margin-left: 30px;
+    
+}
+.bass{
+    height: 350px;
+    width: 700px;
+    margin-left: 30px;
+}
+.fore{
+    height: 350px;
+    width: 700px;
+    margin-left: 30px;
+}
+.mcc{
+    height: 350px;
+    width: 700px;
+    margin-left: 30px;
+}
+.card{
+    background: black;
+    margin-bottom: 10px;
+}
+.row{
+    color: white;
+}
